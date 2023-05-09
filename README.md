@@ -3,6 +3,7 @@
 <p align="left">Currently, I am a student at Poznań University of Technology, pursuing a degree in Computer Science. I am in my second semester and have a keen interest in coding and developing new websites, applications, and games. In my spare time, I love to immerse myself in programming and have several projects posted on my Github profile. Additionally, I work as a freelance developer and have garnered valuable experience in the commercial creation of web-based games. My ultimate goal is to specialize in full-stack web development and create seamless and dynamic web applications.</p>
 
 <h3 align="left">Information</h3>
+
 :100: I specialize in building React websites and creating web-based games
 
 🌱 I’m currently learning **More of a backend side of the websites and apps using Remix or Express**
