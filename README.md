@@ -8,6 +8,9 @@
 
 🌱 I’m currently learning **More of a backend side of the websites and apps using Remix or Express**
 
+:pushpin: I am currently involved in multiple projects, including an **advanced todo tool "Pockety"** and a **websocket-based multiplayer game**
+
+
 :clipboard: Feel free to visit my portfolio to get to know more about me and my work **[wnukiewiczofficial/portfolio](https://wnukiewiczofficial.github.io/portfolio)**
 
 📫 How to reach me **wnukiewiczofficial@yahoo.com**
