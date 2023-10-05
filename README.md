@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm David</h1>
 <h3 align="left">About me</h3>
-<p align="left">I code and develop new websites, applications and games. I worked as a freelance developer and have garnered valuable experience in the commercial creation of web-based games. Except all the frontend and interactive applications I code the backend too. I am a student at Poznań University of Technology, pursuing a degree in Computer Science. In my spare time I sharpen my coding skills :) .</p>
+<p align="left">I code and develop new websites, applications and games. I worked as a freelance developer and have garnered valuable experience in the commercial creation of web-based games. Except all the frontend and interactive applications I code the backend too. In my spare time I sharpen my coding skills :) .</p>
 
 
 
