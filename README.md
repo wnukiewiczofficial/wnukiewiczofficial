@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋, I'm David</h1>
 <h3 align="left">About me</h3>
-<p align="left">I code and develop new websites, applications and games. I worked as a freelance developer and have garnered valuable experience in the commercial creation of web-based games. Except all the frontend and interactive applications I code the backend too. In my spare time I sharpen my coding skills :) .</p>
-
-
+<p align="left">
+  I'm a full-stack developer building websites, applications, and games from concept to deployment. I've worked as both a freelance developer and a full-stack programmer, gaining experience in commercial web-based games, static websites, full-stack web applications, RESTful APIs, and mobile apps.
+  I work across the entire stack—from interactive frontends to robust backends and database management. I'm comfortable with modern frameworks, containerization, and cloud deployment.
+  When I'm not working on projects, I'm experimenting with new technologies and refining my skills.
+</p>
 
 <h3 align="left">Information</h3>
 
