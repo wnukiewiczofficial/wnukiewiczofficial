@@ -14,6 +14,6 @@
 
 :clipboard: Feel free to visit my portfolio to get to know more about me and my work on my **[Portfolio Website](https://wnukiewiczofficial.github.io/portfolio)**
 
-📫 How to reach me **wnukiewiczofficial@yahoo.com**
+📫 How to reach me **dawid@wnukiewicz.dev**
 
 
