@@ -12,7 +12,7 @@
 
 <h3 align="left">Information</h3>
 
-:clipboard: Feel free to visit my portfolio to get to know more about me and my work on my **[Portfolio Website](https://wnukiewiczofficial.github.io/portfolio)**
+:clipboard: Feel free to visit my portfolio to get to know more about me and my work on my **[Portfolio Website](https://wnukiewicz.dev)**
 
 📫 How to reach me **dawid@wnukiewicz.dev**
 
